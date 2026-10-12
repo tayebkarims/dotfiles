@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = tayeb.karims@gmail.com
+	name = Karim TAYEB
